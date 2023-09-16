@@ -1,4 +1,3 @@
-- [] edit Makefile
-- [] compile and flash test blink led
-
-- [] follow along with the course
+- [X] edit Makefile
+- [x] compile and flash test blink led
+- [X] follow along with the course
